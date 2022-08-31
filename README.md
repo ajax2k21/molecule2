@@ -20,6 +20,11 @@ python manage.py runserver
   "lsn_arr": ['your LSN number goes here']
 }
 ~~~  
+
+## To Retrieve a particular SDF from LSN (URL)
+~~~
+type the LSN at the query params
+~~~
 ## Important Note 
 ### After Cloning this project Update details.json location in your views.py file 
 ~~~
